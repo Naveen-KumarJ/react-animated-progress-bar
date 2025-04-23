@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body{
+    @apply min-w-screen min-h-screen bg-neutral-100 flex justify-center items-center;
+}
